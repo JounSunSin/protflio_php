@@ -76,8 +76,7 @@
 }
 
 .skill_icon > img {
-	width: 100px;
-	height: 100px;
+	width: 14%;
 }
 
 .self_img_git {
@@ -214,9 +213,12 @@
 		font-size: 1.3rem;
 	}
 
-	.self_img_map,
-	.self_img_phone,
-	.self_img_email {
+	.skill_icon > img {
+		width: 12%;
+		height: 15%;
+	}
+
+	.self_img_map {
 		width: 50px;
 	}
 	.phoneBox {

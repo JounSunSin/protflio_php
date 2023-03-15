@@ -312,7 +312,7 @@ a:visited {
 	}
 }
 
-@media all and (min-width: 360px) and (max-width: 549px) {
+@media all and (min-width: 350px) and (max-width: 549px) {
 	#info_home {
 		background-image: linear-gradient(to top, #ed7b84 30%, #9055ff 100%);
 	}
@@ -335,6 +335,7 @@ a:visited {
 
 	.title_s,
 	.title_p {
+		margin-top: 0;
 		font-size: 1.5rem;
 	}
 }

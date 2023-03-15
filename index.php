@@ -33,10 +33,8 @@
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site7.webp" alt="PortFlio" />
-                            </div>
-                            <div class="site-text">
                                 <div class="pf_title">Portflio</div>
                                 <div class="pf_lang">VUE</div>
                                 <div class="pf_job">기획 / 디자인 / 퍼블리싱 / 코딩 </div>
@@ -52,98 +50,98 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site2.webp" alt="무한번역" />
-                            </div>
-                            <div class="site-text">
-                                <div class="pf_title">무한번역</div>
-                                <div class="pf_lang">PHP</div>
-                                <div class="pf_job">디자인 / 퍼블리싱 / 코딩 </div>
-                                <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
-                                <div class="pf_btn">
-                                    <button class="btn">
-                                        <a target="_blank" href="http://www.mttrans.co.kr/korean/index.php" alt="무한번역 홈페이지">View Site</a>
-                                    </button>
+                                <div class="site-text">
+                                    <div class="pf_title">무한번역</div>
+                                    <div class="pf_lang">PHP</div>
+                                    <div class="pf_job">디자인 / 퍼블리싱 / 코딩 </div>
+                                    <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
+                                    <div class="pf_btn">
+                                        <button class="btn">
+                                            <a target="_blank" href="http://www.mttrans.co.kr/korean/index.php" alt="무한번역 홈페이지">View Site</a>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site6.webp" alt="서울대 글로벌리더스" />
-                            </div>
-                            <div class="site-text">
-                                <div class="pf_title">GLOBAL LEADERS</div>
-                                <div class="pf_lang">PHP</div>
-                                <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
-                                <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
-                                <div class="pf_btn">
-                                    <button class="btn">
-                                        <a target="_blank" href="http://globalleaders.snu.ac.kr/korean/" alt="서울대 글로벌 리더스 홈페이지">View Site</a>
-                                    </button>
+                                <div class="site-text">
+                                    <div class="pf_title">GLOBAL LEADERS</div>
+                                    <div class="pf_lang">PHP</div>
+                                    <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
+                                    <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
+                                    <div class="pf_btn">
+                                        <button class="btn">
+                                            <a target="_blank" href="http://globalleaders.snu.ac.kr/korean/" alt="서울대 글로벌 리더스 홈페이지">View Site</a>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site4.webp" alt="서울대 정치외교학부" />
-                            </div>
-                            <div class="site-text">
-                                <div class="pf_title">서울대 정치외교학부</div>
-                                <div class="pf_lang">PHP</div>
-                                <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
-                                <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
-                                <div class="pf_btn btn_multi">
-                                    <button class="btn">
-                                        <a target="_blank" href="http://psir.snu.ac.kr/korean/" alt="서울대 정치외교 학부 홈페이지">View Site</a>
-                                    </button>
+                                <div class="site-text">
+                                    <div class="pf_title">서울대 정치외교학부</div>
+                                    <div class="pf_lang">PHP</div>
+                                    <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
+                                    <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
+                                    <div class="pf_btn btn_multi">
+                                        <button class="btn">
+                                            <a target="_blank" href="http://psir.snu.ac.kr/korean/" alt="서울대 정치외교 학부 홈페이지">View Site</a>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site1.webp" alt="서울대 외교학 전공" />
-                            </div>
-                            <div class="site-text">
-                                <div class="pf_title">서울대 외교학 전공</div>
-                                <div class="pf_lang">PHP</div>
-                                <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
-                                <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
-                                <div class="pf_btn btn_multi">
-                                    <button class="btn">
-                                        <a target="_blank" href="http://ir.snu.ac.kr/korean/" alt="서울대 외교학 전공 홈페이지">View Site</a>
-                                    </button>
+                                <div class="site-text">
+                                    <div class="pf_title">서울대 외교학 전공</div>
+                                    <div class="pf_lang">PHP</div>
+                                    <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
+                                    <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
+                                    <div class="pf_btn btn_multi">
+                                        <button class="btn">
+                                            <a target="_blank" href="http://ir.snu.ac.kr/korean/" alt="서울대 외교학 전공 홈페이지">View Site</a>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site5.webp" alt="서울대 정치학 전공" />
-                            </div>
-                            <div class="site-text">
-                                <div class="pf_title">서울대 정치학 전공</div>
-                                <div class="pf_lang">PHP</div>
-                                <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
-                                <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
-                                <div class="pf_btn btn_multi">
-                                    <button class="btn">
-                                        <a target="_blank" href="http://polisci.snu.ac.kr/korean/" alt="서울대 정치학 전공 홈페이지">View Site</a>
-                                    </button>
+                                <div class="site-text">
+                                    <div class="pf_title">서울대 정치학 전공</div>
+                                    <div class="pf_lang">PHP</div>
+                                    <div class="pf_job">퍼블리싱 / 포토샵 / 게시판 </div>
+                                    <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
+                                    <div class="pf_btn btn_multi">
+                                        <button class="btn">
+                                            <a target="_blank" href="http://polisci.snu.ac.kr/korean/" alt="서울대 정치학 전공 홈페이지">View Site</a>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="site-img">
+                            <div class="site-box">
                                 <img src="img/site3.webp" alt="사랑의 장례" />
-                            </div>
-                            <div class="site-text">
-                                <div class="pf_title">사랑의 장례</div>
-                                <div class="pf_lang">PHP</div>
-                                <div class="pf_job">디자인 / 퍼블리싱 / 코딩 </div>
-                                <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
-                                <div class="pf_btn">
-                                    <button class="btn">
-                                        <a target="_blank" href="https://jopocski.cafe24.com/sun/ex5/korean/index.php?nav=0" alt="portflio">View Site</a>
-                                    </button>
+                                <div class="site-text">
+                                    <div class="pf_title">사랑의 장례</div>
+                                    <div class="pf_lang">PHP</div>
+                                    <div class="pf_job">디자인 / 퍼블리싱 / 코딩 </div>
+                                    <div class="pf_web">반응형 ( PC / Moblie / Tablet )</div>
+                                    <div class="pf_btn">
+                                        <button class="btn">
+                                            <a target="_blank" href="https://jopocski.cafe24.com/sun/ex5/korean/index.php?nav=0" alt="portflio">View Site</a>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>

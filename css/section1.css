@@ -320,4 +320,7 @@ p.demos {
 		font-size: 4.5rem;
 		top: 20%;
 	}
+	.frame-5 > span {
+		display: block;
+	}
 }

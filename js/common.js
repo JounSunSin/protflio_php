@@ -3,9 +3,8 @@ function stateAni(state) {
 	let navCheck = $('#main-navigation-toggle').is(':checked');
 	let siteHeight = $('#info_home').outerHeight(true);
 	let home = 0;
-	let skill = siteHeight;
-	let site = siteHeight + siteHeight;
-	let phone = siteHeight + siteHeight + siteHeight;
+	let site = siteHeight;
+	let phone = siteHeight + siteHeight;
 
 	if (state === 'stop') {
 		textAni.css('display', 'none');
@@ -15,13 +14,10 @@ function stateAni(state) {
 		textAni.css('display', 'none');
 	} else if (state === 'checked' && navCheck == true) {
 		textAni.css('display', 'block');
-	} else if (state == 'move1' || state == 'move2' || state == 'move3' || state == 'move4') {
+	} else if (state == 'move1' || state == 'move3' || state == 'move4') {
 		if (state == 'move1') {
 			$('html,body').stop().animate({ scrollTop: home }, 500);
 			textAni.css('display', 'block');
-		} else if (state == 'move2') {
-			$('html,body').stop().animate({ scrollTop: skill }, 500);
-			setTimeout(gsapSkill(), 1500);
 		} else if (state == 'move3') {
 			$('html,body').stop().animate({ scrollTop: site }, 500);
 		} else if (state == 'move4') {
@@ -307,6 +303,7 @@ function gsapAni() {
 // swiper
 function swiper() {
 	new Swiper('.mySwiper', {
+		rewind: true,
 		slidesPerView: 3,
 		spaceBetween: 30,
 		loop: true,
@@ -317,6 +314,20 @@ function swiper() {
 		navigation: {
 			nextEl: '.swiper-button-next',
 			prevEl: '.swiper-button-prev',
+		},
+		breakpoints: {
+			1600: {
+				slidesPerView: 3,
+				spaceBetween: 30,
+			},
+			900: {
+				slidesPerView: 2,
+				spaceBetween: 30,
+			},
+			325: {
+				slidesPerView: 1,
+				spaceBetween: 0,
+			},
 		},
 	});
 }
